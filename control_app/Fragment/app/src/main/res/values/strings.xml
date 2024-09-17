@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WiFiCtrl</string>
+    <string name="title_hj">环境</string>
+    <string name="title_cs">测距</string>
+    <string name="title_dk">灯控</string>
+    <string name="title_dj">电机</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_one">Hello blank fragment 1</string>
+    <string name="hello_blank_fragment_two">Hello blank fragment 2</string>
+    <string name="hello_blank_fragment_three">Hello blank fragment 3</string>
+    <string name="hello_blank_fragment_four">Hello blank fragment 4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

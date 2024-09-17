@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_hj"
+        android:icon="@drawable/indoor"
+        android:title="室内" />
+    <item
+        android:id="@+id/navigation_cs"
+        android:icon="@drawable/control"
+        android:title="控制" />
+
+    <item
+        android:id="@+id/navigation_dk"
+        android:icon="@drawable/hotpot"
+        android:title="热点" />
+
+    <item
+        android:id="@+id/navigation_dj"
+        android:icon="@drawable/my"
+        android:title="我的" />
+
+</menu>
