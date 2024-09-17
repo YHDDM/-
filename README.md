@@ -1,5 +1,5 @@
 # -Smart-Home-Control-System
-大学6周实训项目  
+大学6周实训项目：智能家居控制系统  
 
 
 
